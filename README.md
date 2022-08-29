@@ -1,4 +1,4 @@
-# Deploying a Flask API - Final Project
+# Deploying a Flask API - Final Project submission
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
